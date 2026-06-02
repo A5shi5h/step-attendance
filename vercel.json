@@ -8,7 +8,6 @@
     "backend": {
       "root": "backend",
       "routePrefix": "/_/backend",
-      "runtime": "nodejs22.x",
       "entrypoint": "server.js"
     }
   }
